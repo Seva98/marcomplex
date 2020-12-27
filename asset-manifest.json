@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marcomplex/static/css/main.bc645a45.chunk.css",
+    "main.js": "/marcomplex/static/js/main.e19d99fa.chunk.js",
+    "main.js.map": "/marcomplex/static/js/main.e19d99fa.chunk.js.map",
+    "runtime-main.js": "/marcomplex/static/js/runtime-main.df197214.js",
+    "runtime-main.js.map": "/marcomplex/static/js/runtime-main.df197214.js.map",
+    "static/js/2.955b9c2e.chunk.js": "/marcomplex/static/js/2.955b9c2e.chunk.js",
+    "static/js/2.955b9c2e.chunk.js.map": "/marcomplex/static/js/2.955b9c2e.chunk.js.map",
+    "index.html": "/marcomplex/index.html",
+    "static/css/main.bc645a45.chunk.css.map": "/marcomplex/static/css/main.bc645a45.chunk.css.map",
+    "static/js/2.955b9c2e.chunk.js.LICENSE.txt": "/marcomplex/static/js/2.955b9c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df197214.js",
+    "static/js/2.955b9c2e.chunk.js",
+    "static/css/main.bc645a45.chunk.css",
+    "static/js/main.e19d99fa.chunk.js"
+  ]
+}
